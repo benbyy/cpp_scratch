@@ -1,3 +1,6 @@
 [submodule "scratch_singleton"]
 	path = scratch_singleton
 	url = ./scratch_singleton
+[submodule "scratch_composite"]
+	path = scratch_composite
+	url = ./scratch_composite
